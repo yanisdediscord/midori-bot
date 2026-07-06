@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 discord.py==2.4.0
 python-dotenv
 PyNaCl
+=======
+discord.py==2.4.0
+python-dotenv
+PyNaCl
+>>>>>>> 1d97d884e28bc1c2b324ac81b71b382f83deebde
